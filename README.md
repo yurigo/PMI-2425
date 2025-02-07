@@ -62,12 +62,11 @@
 
 ---
 
-- [ ] Ejercicio. Hacer un CV
+- [x] [Ejercicio. Hacer un CV](./ejercicio-1)
 
 ---
 
-- [ ] Ejercicio. texto/apuntes a html
-
+- [ ] [Ejercicio. texto/apuntes PMI a html](./ejercicio-2/)
 ---
 
 - [x] a
@@ -92,7 +91,7 @@
 
 ---
 
-- [x] Ejercicio. Choose your pokemon (bulbasaur, squirtle, charmander, extra: pikachu).
+- [x] [Ejercicio. Choose your pokemon](ejercicio-3)
 
 ---
 
@@ -115,12 +114,13 @@
 
 ---
 
-- [ ] Ejercicio. Buscar información sobre cada uno de los tags y su significado semantico
+- [ ] Ejercicio 4. Buscar información sobre cada uno de los tags y su significado semantico
 
 ---
 
-- [ ] Ejercicio. Arreglar CV para que sea HTML5
-- [ ] Ejercicio. Arreglar Pokemon Choose your Pokemon para que sea HTML5
+- [ ] Ejercicio 5. Arreglar CV para que sea HTML5
+- [ ] Ejercicio 5. Arreglar documentación para que sea HTM5.
+- [ ] Ejercicio 5. Arreglar Pokemon Choose your Pokemon para que sea HTML5
 
 ---
 
