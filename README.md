@@ -58,7 +58,7 @@
 - [x] body
 - [x] h1, h2, h3, h4, h5, h6
 - [x] p
-- [ ] strong
+- [x] strong
 
 ---
 
@@ -78,16 +78,16 @@
   - [x] source
 - [x] video
   - [x] source
-- [ ] ul
-- [ ] ol
-- [ ] li
-- [ ] table
-  - [ ] thead
-    - [ ] tr
-    - [ ] th
-  - [ ] tbody
-    - [ ] tr
-    - [ ] td
+- [x] ul
+- [x] ol
+- [x] li
+- [x] table
+  - [x] thead
+    - [x] tr
+    - [x] th
+  - [x] tbody
+    - [x] tr
+    - [x] td
 
 ---
 
@@ -95,14 +95,14 @@
 
 ---
 
-- [ ] Block vs inline
-- [ ] HTML Containers:
-  - [ ] div
-  - [ ] span
-- [ ] Attributs
-  - [ ] id
-  - [ ] class
-  - [ ] <strike>style</strike>
+- [x] Block vs inline
+- [x] HTML Containers:
+  - [x] div
+  - [x] span
+- [x] Attributs
+  - [x] id
+  - [x] class
+  - [x] <strike>style</strike>
 - [ ] \***\*HTML5\*\***
   - [ ] header
   - [ ] nav
