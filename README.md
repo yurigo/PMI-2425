@@ -66,7 +66,7 @@
 
 ---
 
-- [ ] [Ejercicio. texto/apuntes PMI a html](./ejercicio-2/)
+- [ ] [Ejercicio. texto/apuntes PMI a html](./ejercicio-3/)
 ---
 
 - [x] a
@@ -103,18 +103,18 @@
   - [x] id
   - [x] class
   - [x] <strike>style</strike>
-- [ ] \***\*HTML5\*\***
-  - [ ] header
-  - [ ] nav
-  - [ ] main
-  - [ ] section
-  - [ ] article
-  - [ ] aside
-  - [ ] footer
+- [x] \***\*HTML5\*\***
+  - [x] header
+  - [x] nav
+  - [x] main
+  - [x] section
+  - [x] article
+  - [x] aside
+  - [x] footer
 
 ---
 
-- [ ] Ejercicio 4. Buscar información sobre cada uno de los tags y su significado semantico
+- [x] Ejercicio 4. Buscar información sobre cada uno de los tags y su significado semantico
 
 ---
 
