@@ -124,6 +124,69 @@
 
 ---
 
+- [ ] form
+- [ ] label
+- [ ] input
+  - [ ] type: text
+  - [ ] type: email
+  - [ ] type: password
+  - [ ] type: number
+  - [ ] type: date
+  - [ ] type: datetime
+  - [ ] type: checkbox
+  - [ ] type: radio
+- [ ] textarea
+- [ ] select
+- [ ] option
+- [ ] button
+  - [ ]type: submit
+  - [ ] type: reset
+
+---
+
+- [ ] Ejercicio 6. Añade un formulario a tu CV para que contácten contigo.
+
+---
+
+## CSS
+
+### CSS places
+
+- [ ] Inline
+- [ ] Internal
+- [ ] External
+
+### CSS Selectors:
+
+- [ ] Tag Selector
+- [ ] Id Selector
+- [ ] Class Selector
+- [ ] Multiple Selectors
+- [ ] Nested Selectors
+- [ ] Pseudo-Classes
+
+- [ ] [CSS Diner](https://flukeout.github.io/)
+
+### CSS Properties:
+
+- [ ] font-family
+- [ ] font-size
+- [ ] line-height
+- [ ] font-weight
+- [ ] font-style
+- [ ] background-color
+- [ ] color
+
+### Google Fonts
+
+### CSS Units:
+- [ ]px
+- [ ]rem
+- [ ]em
+- [ ]%
+- [ ]vw
+- [ ]vh
+
 ## Deploy
 
 - [ ] Netlify!!
