@@ -1,0 +1,35 @@
+html {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    color: aqua;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+h2 {
+    color: yellowgreen;
+    font-size: 24px;
+}
+
+#subtitulo1 {
+    font-size: 30px;
+}
+
+#subtitulo1 strong {
+    background-color: violet;
+}
+
+#subtitulo1 span {
+    background-color: brown;
+}
+
+.underline {
+    text-decoration: underline;
+    color: violet;
+    background-color: darkslategrey;
+}
