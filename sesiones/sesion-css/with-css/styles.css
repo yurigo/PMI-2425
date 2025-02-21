@@ -2,6 +2,18 @@ html {
     font-family: "Roboto", Arial, Helvetica, sans-serif;
 }
 
+p {
+    /* background: linear-gradient(90deg, rgba(198, 105, 194, 1) 0%, rgba(0, 212, 255, 1) 100%); */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrFNIB2luCEKNqo8XGg8PZXhhlJa8c88kBQ&s);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    color: white;
+    font-weight: 900;
+    /* text-align: justify; *//* <-- no usar!! */ 
+}
+
 h1 {
     font-size: 48px;
     color: aqua;
@@ -32,4 +44,23 @@ h2 {
     text-decoration: underline;
     color: violet;
     background-color: darkslategrey;
+}
+
+nav>ul>li::marker {
+    content: "🦄";
+}
+
+nav>ul a {
+    text-decoration: none;
+    color: black;
+}
+
+nav>ul a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+p::selection {
+    background: rgb(198, 105, 194);
+
 }
