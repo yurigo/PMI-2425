@@ -124,23 +124,23 @@
 
 ---
 
-- [ ] form
-- [ ] label
-- [ ] input
-  - [ ] type: text
-  - [ ] type: email
-  - [ ] type: password
-  - [ ] type: number
-  - [ ] type: date
-  - [ ] type: datetime
-  - [ ] type: checkbox
-  - [ ] type: radio
-- [ ] textarea
-- [ ] select
-- [ ] option
-- [ ] button
-  - [ ]type: submit
-  - [ ] type: reset
+- [x] form
+- [x] label
+- [x] input
+  - [x] type: text
+  - [x] type: email
+  - [x] type: password
+  - [x] type: number
+  - [x] type: date
+  - [x] type: datetime
+  - [x] type: checkbox
+  - [x] type: radio
+- [x] textarea
+- [x] select
+- [x] option
+- [x] button
+  - [x] type: submit
+  - [x] type: reset
 
 ---
 
