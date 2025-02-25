@@ -152,40 +152,104 @@
 
 ### CSS places
 
-- [ ] Inline
-- [ ] Internal
-- [ ] External
+- [x] Inline
+- [x] Internal
+- [x] External
 
 ### CSS Selectors:
 
-- [ ] Tag Selector
-- [ ] Id Selector
-- [ ] Class Selector
-- [ ] Multiple Selectors
-- [ ] Nested Selectors
+- [x] Tag Selector
+- [x] Id Selector
+- [x] Class Selector
+- [x] Multiple Selectors
+- [x] Nested Selectors
 - [ ] Pseudo-Classes
 
-- [ ] [CSS Diner](https://flukeout.github.io/)
+- [x] [CSS Diner](https://flukeout.github.io/)
 
 ### CSS Properties:
 
-- [ ] font-family
-- [ ] font-size
-- [ ] line-height
-- [ ] font-weight
-- [ ] font-style
-- [ ] background-color
-- [ ] color
+> [!NOTE]
+> [CSS properties popularity](https://chromestatus.com/metrics/css/popularity)
+
+- [x] font-family
+- [x] font-size
+- [x] line-height
+- [x] font-weight
+- [x] font-style
+- [x] background-color
+- [x] color
 
 ### Google Fonts
 
 ### CSS Units:
-- [ ]px
-- [ ]rem
-- [ ]em
-- [ ]%
-- [ ]vw
-- [ ]vh
+- [x] px
+- [ ] rem
+- [ ] em
+- [x] %
+- [x] vw
+- [x] vh
+
+### Reset & Normalize
+
+- [x] https://meyerweb.com/eric/tools/css/reset/
+- [ ] https://necolas.github.io/normalize.css/
+  - [ ] https://github.com/sindresorhus/modern-normalize
+    - [ ] https://tailwindcss.com/docs/preflight
+- [ ] https://piccalil.li/blog/a-more-modern-css-reset/
+- [x] https://www.joshwcomeau.com/css/custom-css-reset/
+- [ ] https://x.com/souporserious/status/1746311121949356469
+
+#### Discussion
+- [ ] https://www.reddit.com/r/webdev/comments/1bqymin/is_normalizecss_still_a_good_use_despite_being_6/
+
+### CSS Properties:
+
+- [x] border
+  - [ ] border-width
+  - [ ] border-style
+  - [ ] border-color
+- [ ] border-radius
+  - [ ] border-top-left-radius
+  - [ ] border-top-right-radius
+  - [ ] border-bottom-left-radius
+  - [ ] border-bottom-right-radius
+- [ ] box-shadow
+- [x] width
+- [x] height
+- [ ] background
+- [ ] background-image
+- [ ] background-repeat
+- [ ] background-size
+- [ ] background-attachment
+- [x] margin
+  - [x] margin-top
+  - [x] margin-right
+  - [x] margin-bottom
+  - [x] margin-left
+  - [x] margin-inline
+    - [x] margin-inline-start
+    - [x] margin-inline-end
+  - [x] margin-block
+    - [x] margin-block-start
+    - [x] margin-block-end
+- [x] padding
+  - [x] padding-top
+  - [x] padding-right
+  - [x] padding-bottom
+  - [x] padding-left
+  - [x] padding-inline
+    - [x] padding-inline-start
+    - [x] padding-inline-end
+  - [x] padding-block
+    - [x] padding-block-start
+    - [x] padding-block-end
+- [ ] cursor
+- [ ] outline
+- [ ] display: block
+
+
+
 
 ## Deploy
 
