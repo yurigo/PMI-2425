@@ -1,0 +1,45 @@
+/* 
+
+Ver el reset
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+    border: 0;
+} 
+*/
+
+body {
+    font-family: Consolas;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    border: 10px solid red;
+    /* padding-top: 50px; */
+    padding-block-start: 50px;
+    /* padding-bottom: 50px; */
+    padding-block-end: 50px;
+    /* padding-left: 50px; */
+    padding-inline-start: 50px;
+    /* padding-right: 50px; */
+    padding-inline-end: 50px;
+    background-color: yellowgreen;
+}
+
+
+.box {
+    width: 150px;
+    height: 150px;
+    border: 2px solid green;
+    padding: 1em;
+    margin: 0;
+}
