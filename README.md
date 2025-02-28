@@ -206,22 +206,22 @@
 ### CSS Properties:
 
 - [x] border
-  - [ ] border-width
-  - [ ] border-style
-  - [ ] border-color
-- [ ] border-radius
-  - [ ] border-top-left-radius
-  - [ ] border-top-right-radius
-  - [ ] border-bottom-left-radius
-  - [ ] border-bottom-right-radius
-- [ ] box-shadow
+  - [x] border-width
+  - [x] border-style
+  - [x] border-color
+- [x] border-radius
+  - [x] border-top-left-radius
+  - [x] border-top-right-radius
+  - [x] border-bottom-left-radius
+  - [x] border-bottom-right-radius
+- [x] box-shadow
 - [x] width
 - [x] height
-- [ ] background
-- [ ] background-image
-- [ ] background-repeat
-- [ ] background-size
-- [ ] background-attachment
+- [x] background
+- [x] background-image
+- [x] background-repeat
+- [x] background-size
+- [x] background-attachment
 - [x] margin
   - [x] margin-top
   - [x] margin-right
@@ -244,10 +244,9 @@
   - [x] padding-block
     - [x] padding-block-start
     - [x] padding-block-end
-- [ ] cursor
-- [ ] outline
-- [ ] display: block
-
+- [x] cursor
+- [x] outline
+- [x] display: block
 
 ### CSS Properties:
 
