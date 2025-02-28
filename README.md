@@ -249,6 +249,21 @@
 - [ ] display: block
 
 
+### CSS Properties:
+
+- [ ] text-decoration
+- [ ] box-sizing
+- [ ] text-align
+- [ ] display: none
+- [ ] display: inline-block
+- [ ] calc()
+- [ ] margin: 0 auto
+- [ ] display: flex
+
+### Flexbox 
+
+> [!IMPORTANT]
+> [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
 ## Deploy
