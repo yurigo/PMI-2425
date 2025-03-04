@@ -7,7 +7,7 @@
 - [ ] Git
 - [x] Github
 - [ ] Netlify
-- [ ] [Sqwoss](https://squoosh.app/)
+- [x] [Sqwoss](https://squoosh.app/)
 
 ## Extensiones
 
@@ -250,14 +250,14 @@
 
 ### CSS Properties:
 
-- [ ] text-decoration
-- [ ] box-sizing
-- [ ] text-align
-- [ ] display: none
-- [ ] display: inline-block
-- [ ] calc()
-- [ ] margin: 0 auto
-- [ ] display: flex
+- [x] text-decoration
+- [x] box-sizing
+- [x] text-align
+- [x] display: none
+- [x] display: inline-block
+- [x] calc()
+- [x] margin: 0 auto
+- [x] display: flex
 
 ### Flexbox 
 
