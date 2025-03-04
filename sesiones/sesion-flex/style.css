@@ -1,0 +1,26 @@
+header {
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    /* opacity: 0.6; */
+    /* z-index: -1; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 10px;
+}
+
+.hero {
+    background-color: yellowgreen;
+    height: 100vh;
+
+    /* width: 100vw; */
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    /* row-gap: 4px;
+    column-gap: 4px; */
+    gap: 1em;
+}
