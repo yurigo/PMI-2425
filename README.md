@@ -264,6 +264,53 @@
 > [!IMPORTANT]
 > [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+- [x] display: flex
+  - [x] flex-direction
+    - [x] *row*
+    - [x] row-reverse
+    - [x] column
+    - [x] column-reverse
+  - [x] flex-wrap
+    - [x] wrap
+    - [x] wrap-reverse
+    - [x] *nowrap*
+  - [x] flex-flow
+  - [x] justify-content
+    - [x] *flex-start*
+    - [x] flex-end
+    - [x] center
+    - [x] space-between
+    - [x] space-around
+    - [x] space-evenly
+  - [x] align-items
+    - [x] flex-start
+    - [x] flex-end
+    - [x] center
+    - [x] *strech*
+    - [x] baseline
+  - [x] align-content
+    - [x] flex-start
+    - [x] flex-end
+    - [x] center
+    - [x] stretch
+    - [x] space-between
+    - [x] space-around
+    - [x] space-evenly
+    - [x] *normal*
+  - [x] gap
+    - [x] row-gap
+    - [x] column-gap
+  - [x] order
+  - [ ] flex-grow
+  - [ ] flex-shrink
+  - [ ] flex-basis
+  - [ ] flex
+  - [x] align-self
+
+
+> [!INFORMATION]
+> [flexboxfroggy](https://flexboxfroggy.com/#es)
+
 
 ## Deploy
 
