@@ -1,0 +1,75 @@
+header {
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    /* opacity: 0.6; */
+    /* z-index: -1; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 10px;
+    z-index: 10;
+}
+
+.hero {
+    background-color: yellowgreen;
+    min-height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    flex-direction: column;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    /* row-gap: 1em;
+    column-gap: 1em; */
+    gap: 1em;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.hero {
+    overflow: auto;
+}
+
+.numeritos {
+    display: flex;
+    flex-wrap: wrap;
+    gap:1em;
+    min-height: 500px;
+    align-items: flex-start;
+    align-content: center;
+    background-color: darkred;
+    padding: 2em;
+}
+
+.numeritos > div {
+    background-color: lightsalmon;
+    width: 100px;
+    padding: .5em;
+    color: #333;
+}
+
+.numeritos > .n6 {
+    align-self: flex-end;
+}
+
+.numeritos > div:first-child{
+    align-self: center;
+}
+
+.numeritos > div:nth-child(2){
+    background-color: teal;
+    align-self: flex-end;
+}
+.numeritos > div:last-child{
+    order: -1;
+    
+}
+
