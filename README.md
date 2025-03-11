@@ -262,7 +262,8 @@
 ### Flexbox 
 
 > [!IMPORTANT]
-> [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+> - [CSS Tricks - CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+> - [Josh Comeau - An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 
 - [x] display: flex
   - [x] flex-direction
@@ -308,9 +309,35 @@
   - [x] align-self
 
 
-> [!INFORMATION]
+> [!IMPORTANT]
 > [flexboxfroggy](https://flexboxfroggy.com/#es)
 
+### Grid
+
+> [!IMPORTANT]
+> - [CSS Tricks - CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+> - [Josh comeau - An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+
+- [ ] display: grid
+- [ ] grid-template-columns
+- [ ] grid-gap
+- [ ] grid-column
+  - [ ] grid-column-start
+  - [ ] grid-column-end
+  - [ ] `span`
+- [ ] grid-row
+  - [ ] grid-row-start
+  - [ ] grid-row-end
+  - [ ] `span`
+- [ ] repeat(autofit, minmax())
+- [ ] grid-template-areas
+- [ ] grid-area
+
+> [!NOTES]
+> [layoutit](https://grid.layoutit.com/)
+
+> [!IMPORTANT]
+> [gridgarden](https://flexboxfroggy.com/#es)
 
 ## Deploy
 
