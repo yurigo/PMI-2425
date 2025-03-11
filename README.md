@@ -333,7 +333,7 @@
 - [ ] grid-template-areas
 - [ ] grid-area
 
-> [!NOTES]
+> [!NOTE]
 > [layoutit](https://grid.layoutit.com/)
 
 > [!IMPORTANT]
