@@ -339,6 +339,20 @@
 > [!IMPORTANT]
 > [gridgarden](https://flexboxfroggy.com/#es)
 
+## Javascript
+
+- [x] hello world!
+  - [x] scripting
+  - [x] dynamic + weakly typed
+- [x] link script to the page
+  - [x] `defer`
+  - [x] `async`
+  - [x] `type="module"`
+- [x] `console.log("hello world")`
+- [x] `document`
+  - [x] `.getElementByID("ID")`
+- [x] 3rd party libraries
+
 ## Deploy
 
 - [ ] Netlify!!
