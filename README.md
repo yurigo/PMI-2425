@@ -318,20 +318,20 @@
 > - [CSS Tricks - CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 > - [Josh comeau - An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 
-- [ ] display: grid
-- [ ] grid-template-columns
-- [ ] grid-gap
-- [ ] grid-column
-  - [ ] grid-column-start
-  - [ ] grid-column-end
-  - [ ] `span`
-- [ ] grid-row
-  - [ ] grid-row-start
-  - [ ] grid-row-end
-  - [ ] `span`
-- [ ] repeat(autofit, minmax())
-- [ ] grid-template-areas
-- [ ] grid-area
+- [x] display: grid
+- [x] grid-template-columns
+- [x] grid-gap
+- [x] grid-column
+  - [x] grid-column-start
+  - [x] grid-column-end
+  - [x] `span`
+- [x] grid-row
+  - [x] grid-row-start
+  - [x] grid-row-end
+  - [x] `span`
+- [x] repeat(autofit, minmax())
+- [x] grid-template-areas
+- [x] grid-area
 
 > [!NOTE]
 > [layoutit](https://grid.layoutit.com/)

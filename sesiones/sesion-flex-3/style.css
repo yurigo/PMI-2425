@@ -1,0 +1,42 @@
+main{
+    height: 100vh;
+    width: 100vw;
+    background-color: palevioletred;
+    overflow: hidden;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.special-friends{
+    align-self: end;
+}
+
+.hero{
+    margin: 0 auto;
+}
+
+.hero > h2 {
+    text-align: center;
+}
+
+.pokemons{
+    display: flex;
+    flex-direction: row;
+    gap: 3em;
+}
+
+.pokemons > a {
+    width: 200px;
+    height: 300px;
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pokemons img{
+    width: 100%;
+}
+
