@@ -341,11 +341,11 @@
 
 ### Positioning
 
-- [ ] position:
+- [x] position:
   - [ ] relative
   - [ ] absolute
   - [ ] sticky
-  - [ ] fixed
+  - [x] fixed
 - [ ] top
 - [ ] left
 - [ ] right
@@ -387,9 +387,9 @@
 
 ### Responsive
 
-- [ ] @media
-- [ ] max-width
-- [ ] min-width
+- [x] @media
+- [ ] min-width: 500px 👴
+- [x] width > 500px 👶
 - [ ] HTML <link> tag Attribute: media="screen and (max-width: ...)"
 
 #### Actividad
