@@ -339,6 +339,78 @@
 > [!IMPORTANT]
 > [gridgarden](https://flexboxfroggy.com/#es)
 
+### Positioning
+
+- [ ] position:
+  - [ ] relative
+  - [ ] absolute
+  - [ ] sticky
+  - [ ] fixed
+- [ ] top
+- [ ] left
+- [ ] right
+- [ ] bottom
+- [ ] z-index
+
+### Transform
+
+- [ ] transform:
+  - [ ] rotate()
+  - [ ] translate()
+  - [ ] translateY()
+  - [ ] translateX()
+  - [ ] scale()
+
+### Transitions
+
+- [ ] transition:
+  - [ ] transition-duration
+  - [ ] transition-timing-function
+  - [ ] transition-delay
+
+### Animations
+
+- [ ] animation:
+  - [ ] animation-name
+  - [ ] animation-duration
+  - [ ] animation-timing-function
+  - [ ] animation-delay
+  - [ ] animation-iteration-count
+  - [ ] animation-fill-mode
+- [ ] @keyframes
+
+#### Actividad
+
+1. Crea una página web que tenga un spinner en el centro de la página. Sólo con css.
+
+2. Modifica la página para que el spinner aparezca en la izquierda de la pantalla y se mueva y se quede en la derecha.
+
+### Responsive
+
+- [ ] @media
+- [ ] max-width
+- [ ] min-width
+- [ ] HTML <link> tag Attribute: media="screen and (max-width: ...)"
+
+#### Actividad
+
+1. Crea una página web que tenga un título y un icono (centrados). Con las siguientes indicaciones:
+
+- Este título será uno de los siguientes nombres (phone, tablet, laptop, desktop) y solo debe mostrarse si el tamaño de la pantalla corresponde al tamaño del dispositivo en cuestión.
+- El icono también debe corresponder con el título mostrado.
+- Además, se debe cambiar el color de fondo de la pantalla para cada dispositivo.
+- Utiliza los iconos:
+
+| Desktop | Laptop | Tablet | Phone |
+| - | - | - | - |
+| ![desktop](./assets/desktop-icon.svg) | ![laptop](./assets/laptop-icon.svg) | ![phone](./assets/phone-icon.svg) | ![phone](./assets/phone-icon.svg) |
+
+
+### Frameworks
+
+- [ ] Bootstrap 5.0
+- [ ] Tailwind
+
 ## Javascript
 
 - [x] hello world!
