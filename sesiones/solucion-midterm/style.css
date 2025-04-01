@@ -1,0 +1,81 @@
+:root {
+    --negro: #25252f;
+    --blanco: #d9dee2;
+    --rojo: #eb2f14;
+    --amarillo: #dfbc3a;
+    --azul: #004db7;
+    --beige: #cebaa1;
+  }
+
+  body{
+    font-family: Consolas, mono, sans-serif;
+  }
+
+  main{
+    margin: 2em auto;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+  }
+
+.cuadro {
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: var(--negro);
+    height: 60vh;
+    /* width: 400px; */
+    aspect-ratio: 1/1;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "a a d d d d d d"
+      "a a d d d d d d"
+      "a a d d d d d d"
+      "b b d d d d d d"
+      "b b d d d d d d"
+      "b b d d d d d d"
+      "c c e e e e e f"
+      "c c e e e e e g";
+      box-shadow: 0px 0px 5px 4px var(--beige);
+  }
+
+  .a, .b, .e, .f {
+    background-color: var(--blanco);
+  }
+  
+  .a{
+    grid-area: a;
+    border-bottom: 10px solid var(--negro);
+  }
+  .b{
+    grid-area: b;
+  }
+  .c{
+    grid-area: c;
+    background-color: var(--azul);
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: x-small;
+    letter-spacing: 0.3rem;
+  }
+  .d{
+    grid-area: d;
+    background-color: var(--rojo);
+  }
+  .e{
+    grid-area: e;
+  }
+  .f{
+    grid-area: f;
+  }
+  .g{
+    grid-area: g;
+    background-color: var(--amarillo);
+  }
