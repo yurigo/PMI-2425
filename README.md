@@ -403,7 +403,7 @@
 
 | Desktop | Laptop | Tablet | Phone |
 | - | - | - | - |
-| ![desktop](./assets/desktop-icon.svg) | ![laptop](./assets/laptop-icon.svg) | ![phone](./assets/phone-icon.svg) | ![phone](./assets/phone-icon.svg) |
+| ![desktop](./assets/desktop-icon.svg) | ![laptop](./assets/laptop-icon.svg) | ![phone](./assets/tablet-icon.svg) | ![phone](./assets/phone-icon.svg) |
 
 
 ### Frameworks
