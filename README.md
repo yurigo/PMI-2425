@@ -411,7 +411,7 @@
 - [ ] Bootstrap 5.0
 - [ ] Tailwind
 
-## Javascript
+## [Javascript](https://github.com/yurigo/javascript)
 
 - [x] hello world!
   - [x] scripting
@@ -509,6 +509,10 @@
 - [ ] load
 - [x] addEventListener
 - [ ] removeEventListener
+
+### Ejercicios
+
+
 
 ## Deploy
 
