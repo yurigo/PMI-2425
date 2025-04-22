@@ -512,7 +512,9 @@
 
 ### Ejercicios
 
+### Boilerplate
 
+[boilerplate](https://github.com/yurigo/vanilla-html-template)
 
 ## Deploy
 
