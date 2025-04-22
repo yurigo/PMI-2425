@@ -461,7 +461,7 @@
 - [x] then/catch
 - [x] async/await
 
-## DOM
+### DOM Manipulation
 
 - [x] getElementById
 - [ ] getElementsByClassName
@@ -483,7 +483,7 @@
 - [ ] replaceChild
 - [ ] insertBefore
 
-## Eventos
+### Event handling
 
 - [x] click
 - [x] submit
