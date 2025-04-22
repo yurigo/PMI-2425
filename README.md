@@ -4,9 +4,9 @@
 
 - [x] Chrome (firefox, edge, opera, safari)
 - [x] VSCode
-- [ ] Git
+- [x] Git
 - [x] Github
-- [ ] Netlify
+- [x] Netlify
 - [x] [Sqwoss](https://squoosh.app/)
 
 ## Extensiones
@@ -354,30 +354,30 @@
 
 ### Transform
 
-- [ ] transform:
-  - [ ] rotate()
-  - [ ] translate()
+- [x] transform:
+  - [x] rotate()
+  - [x] translate()
   - [ ] translateY()
   - [ ] translateX()
-  - [ ] scale()
+  - [x] scale()
 
 ### Transitions
 
-- [ ] transition:
-  - [ ] transition-duration
-  - [ ] transition-timing-function
-  - [ ] transition-delay
+- [x] transition:
+  - [x] transition-duration
+  - [x] transition-timing-function
+  - [x] transition-delay
 
 ### Animations
 
-- [ ] animation:
-  - [ ] animation-name
-  - [ ] animation-duration
-  - [ ] animation-timing-function
-  - [ ] animation-delay
-  - [ ] animation-iteration-count
-  - [ ] animation-fill-mode
-- [ ] @keyframes
+- [x] animation:
+  - [x] animation-name
+  - [x] animation-duration
+  - [x] animation-timing-function
+  - [x] animation-delay
+  - [x] animation-iteration-count
+  - [x] animation-fill-mode
+- [x] @keyframes
 
 #### Actividad
 
@@ -425,6 +425,91 @@
   - [x] `.getElementByID("ID")`
 - [x] 3rd party libraries
 
+### Types
+
+#### Primitive types ([📚](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Data_structures#primitive_values))
+
+- [x] Null
+- [x] Undefined
+- [x] Boolean
+- [x] Number
+- [ ] BigInt
+- [x] String
+- [ ] Symbol
+
+#### Objects ([📚](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object))
+
+- [x] Objetos
+- [x] Funciones
+- [x] [Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [ ] [Fechas](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+
+### Functions ([📚](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions))
+
+- [x] Function declaration
+- [x] Function expression
+- [x] Arrow Function
+
+### Promise ([📚](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise))
+
+- [x] [then](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)/[catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch)
+
+- [x] [async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)/[await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
+
+### Fetch API ([📚](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API))
+
+- [x] then/catch
+- [x] async/await
+
+## DOM
+
+- [x] getElementById
+- [ ] getElementsByClassName
+- [ ] getElementsByTagName
+- [ ] getElementsByName
+- [ ] querySelector
+- [ ] querySelectorAll
+- [ ] style
+- [x] classList
+- [x] innerHTML
+- [x] innerText
+- [ ] textContent
+- [ ] getAttribute
+- [ ] setAttribute
+- [ ] removeAttribute
+- [ ] createElement
+- [x] appendChild
+- [ ] removeChild
+- [ ] replaceChild
+- [ ] insertBefore
+
+## Eventos
+
+- [x] click
+- [x] submit
+- [ ] change
+- [ ] keydown
+- [ ] keyup
+- [ ] keypress
+- [ ] focus
+- [ ] blur
+- [x] mouseover
+- [ ] mouseout
+- [ ] mousemove
+- [ ] mousedown
+- [ ] mouseup
+- [ ] mouseenter
+- [ ] mouseleave
+- [ ] touchstart
+- [ ] touchend
+- [ ] touchmove
+- [ ] touchcancel
+- [ ] scroll
+- [x] resize
+- [ ] load
+- [x] addEventListener
+- [ ] removeEventListener
+
 ## Deploy
 
-- [ ] Netlify!!
+- [x] Netlify!!
