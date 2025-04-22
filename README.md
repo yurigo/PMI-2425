@@ -512,6 +512,8 @@
 
 ### Ejercicios
 
+[go to ejercicios](https://github.com/yurigo/javascript/tree/master/ejercicios#ejercicios)
+
 ### Boilerplate
 
 [boilerplate](https://github.com/yurigo/vanilla-html-template)
