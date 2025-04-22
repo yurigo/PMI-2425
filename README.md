@@ -467,8 +467,8 @@
 - [ ] getElementsByClassName
 - [ ] getElementsByTagName
 - [ ] getElementsByName
-- [ ] querySelector
-- [ ] querySelectorAll
+- [x] querySelector
+- [x] querySelectorAll
 - [ ] style
 - [x] classList
 - [x] innerHTML
