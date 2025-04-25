@@ -512,7 +512,7 @@
 
 ### Ejercicios
 
-[go to ejercicios](https://github.com/yurigo/javascript/tree/master/ejercicios#ejercicios)
+[go to ejercicios](./javascript/ejercicios/README.md)
 
 ### Boilerplate
 
