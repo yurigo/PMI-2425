@@ -225,6 +225,13 @@ Salida: `1,000,000`
 
 Usa `toLocaleString()`.
 
+> [!NOTE]
+> [Ver Solución](<soluciones/ejercicio 22>)
+
+> [!NOTE]
+> Bonus: Añade un selector para poder seleccionar la cultura en la que se quiere mostrar el número
+> [Ver Solución](<soluciones/ejercicio 22 bonus>)
+
 ---
 
 ## Ejercicio 23: Generador de Siglas
